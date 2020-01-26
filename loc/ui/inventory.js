@@ -21,7 +21,7 @@ export default {
   pick: {
     en: 'You have picked up $1.',
     nl: 'Je hebt opgepikt $1.',
-    es: 'Has recogido $1.',
+    es: 'Has obtenido $1.',
     pt: 'Você pegou $1.',
     de: 'Du hast $1 aufgesammelt.',
     ro: 'Ai luat $1.',
@@ -39,7 +39,7 @@ export default {
     en: 'You threw away $1.',
     ru: 'Вы выбросили $1.',
     ro: 'Ai aruncat $1.',
-    es: 'Has tirado $1.',
+    es: 'Has botado $1.',
     fr: 'Vous avez jeté $1.',
     de: 'Du hast $1 weggeworfen.',
     pt: 'Deitaste fora a $1.',
@@ -56,7 +56,7 @@ export default {
   full: {
     en: 'Your inventory is full.',
     nl: 'Uw inventaris is vol.',
-    es: 'Tu inventario está lleno.',
+    es: 'inventario lleno!.',
     pt: 'O seu inventário está cheio.',
     de: 'Dein Inventar ist voll.',
     ro: 'Inventarul tău este plin.',
@@ -160,6 +160,7 @@ export default {
   splithalf: {
     en: 'Split half',
     ru: 'Разделить пополам',
+    es: 'dividir',
     fr: 'Partager en deux',
     pt: 'Dividir ao meio',
     hu: 'Kettéosztás',
@@ -172,6 +173,7 @@ export default {
   splitone: {
     en: 'Split one',
     ru: 'Отделить один',
+    es: 'dividir uno',
     fr: 'Retirer un item',
     pt: 'Retirar um',
     hu: 'Egy elvétele',
