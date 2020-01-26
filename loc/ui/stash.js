@@ -6,7 +6,7 @@ export default {
     ru: 'Вы должны подождать перед тем как вы можете получить этот предмет.',
     pt: 'Você tem de esperar até que possa recuperar este item.',
     fr: 'Vous devez attendre jusqu\'à ce que vous puissiez récupérer cet objet',
-    es: 'Tiene que esperar hasta que pueda recuperar este item.',
+    es: 'espera hasta recuperar este item!.',
     nl: 'Je moet wachten tot je dit item kan terugvinden.',
     ko: '이 항목을 가져올 때까지 기다려야합니다.',
     hi: 'आपको इस आइटम को पुनः प्राप्त करने तक इंतजार करना होगा।',
@@ -39,6 +39,7 @@ export default {
   deposit: {
     en: 'Deposit',
     ru: 'Депозировать',
+    es: 'Transferir o Comerciar',
     pl: 'Depozyt',
     de: 'Einzahlen',
     fr: 'Déposer',
