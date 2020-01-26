@@ -25,7 +25,7 @@ export default {
     hi: 'पिछला',
     fr: 'Retour',
     de: 'Zurück',
-    es: 'Regresar',
+    es: 'atras',
     nl: 'Terug',
     tr: 'Geri',
     pt: 'Voltar',
