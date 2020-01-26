@@ -170,7 +170,7 @@ export default {
     en: '$1 is offering to summon you to their location.',
     ru: 'Игрок $1 хочет призвать вас к себе.',
     pt: '$1 está a oferecer invocar te na localização dele.',
-    es: '$1 está ofreciendo invocarte a su ubicación.',
+    es: '$1 quiere trasladarte a su ubicación.',
     tr: '$1 seni yanına çağırıyor.',
     hu: '$1 felajánlotta hogy magához idéz.',
     de: '$1 möchte dich zu seiner Position beschwören.',
